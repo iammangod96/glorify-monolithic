@@ -1,0 +1,9 @@
+mat-card {
+	margin:20px;
+	background-color:black;
+	color:white;
+}
+
+.matInputWrapper{
+  width:400px !important;
+}
